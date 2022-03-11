@@ -59,6 +59,7 @@
         android:layout_marginEnd="48dp"
         android:layout_marginBottom="64dp"
         android:enabled="false"
+        android:onClick="WelcomeScreen"
         android:text="Login"
         android:textColor="@color/white"
         app:backgroundTint="#218FE5"
